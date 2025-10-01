@@ -1,5 +1,10 @@
-# HealthFacilities.md
+
 # Open Database of Health Facilities (ODHF) 
+
+## Project Title
+# Analysis of Canadian Health Facilities - Power BI Dashboard
+
+## Overview
 
 The Canadian Health Facilities Dashboard is an interactive Power BI tool utilizing the Open Database of Health Facilities (ODHF) from Statistics Canada, which contains approximately 9,000 records across all Canadian provinces and territories. The dashboard visualizes the distribution of hospitals, ambulatory care services, and nursing/residential care facilities, featuring geolocation and robust filtering by city, facility type, and region. Data cleaning and processing are done using Python (pandas, GeoPandas), while Power BI provides dynamic mapping and interactive analysis capabilities.
 
