@@ -40,6 +40,14 @@ With this dashboard, users can:
 
 This dashboard was created as a demonstration of skills in data integration, cleaning, and visualization, serving as a portfolio piece and a resource for those interested in healthcare infrastructure.
 
+#### General Overview
+
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/14d24f70-1e1d-4bf5-803c-b556fb3a4ccf" />
+
+### Detail View
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/1798d8f0-fe2a-4df6-9461-25f3a07aca60" />
+
 ### References
 
 - [ODHF Metadata Document – CSBP, Statistics Canada](https://open.canada.ca/data/en/dataset/a1bcd4ee-8e57-499b-9c6f-94f6902fdf32/resource/a21f14c3-66fe-4736-8548-d84ff06f09d8)
