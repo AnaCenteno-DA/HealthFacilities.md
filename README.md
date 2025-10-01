@@ -42,5 +42,6 @@ This dashboard was created as a demonstration of skills in data integration, cle
 
 ### References
 
-- ODHF Metadata Document – CSBP, Statistics Canada
-- ODHF Dataset CSV – Statistics Canada [https://open.canada.ca/data/en/dataset/a1bcd4ee-8e57-499b-9c6f-94f6902fdf32?utm_source]
+- [ODHF Metadata Document – CSBP, Statistics Canada](https://open.canada.ca/data/en/dataset/a1bcd4ee-8e57-499b-9c6f-94f6902fdf32/resource/a21f14c3-66fe-4736-8548-d84ff06f09d8)
+  
+- [ODHF Dataset CSV – Statistics Canada](https://open.canada.ca/data/en/dataset/a1bcd4ee-8e57-499b-9c6f-94f6902fdf32/resource/a65aac21-7646-4e92-a619-356628efd669))
